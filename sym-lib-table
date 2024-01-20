@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/libraries/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
   (lib (name "BOB-12009")(type "KiCad")(uri "${KIPRJMOD}/libraries/BOB-12009 Libraries/BOB-12009.kicad_sym")(options "")(descr ""))
+  (lib (name "gb_link_port")(type "KiCad")(uri "${KIPRJMOD}/libraries/GB-Link-Socker Libraries/gb_link_port.kicad_sym")(options "")(descr ""))
 )
