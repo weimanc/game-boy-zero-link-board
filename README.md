@@ -61,6 +61,7 @@ This board is compatible with the following firmware:
 - https://github.com/dj505/GBPrinterEmu
 - https://github.com/Squaresweets/GBPrinter-discord-bot
 - https://github.com/KuestenKeks/pc-to-gb-printer
+- https://github.com/PaulMDemers/poke-link
 
 With some modification, it should be compatible with other firmware as well, such as:
 - https://github.com/untoxa/pico-gb-printer
